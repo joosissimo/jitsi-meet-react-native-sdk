@@ -81,7 +81,7 @@
         "react-native-svg": "15.2.0",
         "react-native-video": "6.1.2",
         "react-native-watch-connectivity": "1.1.0",
-        "react-native-webrtc": "118.0.7",
+        "react-native-webrtc": "124.0.1",
         "react-native-webview": "13.8.6",
         "text-encoding": "0.7.0"
     },
